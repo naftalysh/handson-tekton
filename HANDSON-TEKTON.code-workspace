@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"github.gitAuthentication": true,
+		"github-enterprise.uri": "https://github.com/naftalysh/handson-tekton?organization=naftalysh",
+		"vs-tekton.deploy": true,
+		"vs-tekton.showChannelOutput": true,
+		"vs-tekton.showLogInEditor": true
+	}
+}
